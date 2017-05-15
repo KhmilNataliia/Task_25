@@ -1,0 +1,17 @@
+﻿Сборка начата 05.05.2017 15:14:01.
+     1>Проект "C:\c++_дз\projects\С++_дз\2 курс\2 semestr\задачі\№25(ChainOfResponsibility)\pattern_chain_of_responsibility\pattern_chain_of_responsibility\pattern_chain_of_responsibility.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib MyForm.cpp
+         MyForm.cpp
+     1>c:\c++_дз\projects\с++_дз\2 курс\2 semestr\задачі\№25(chainofresponsibility)\pattern_chain_of_responsibility\pattern_chain_of_responsibility\MyForm.h(164): warning C4244: аргумент: преобразование "wchar_t" в "char", возможна потеря данных
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /analyze- /errorReport:prompt "C:\Users\User\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\c++_дз\projects\С++_дз\2 курс\2 semestr\задачі\№25(ChainOfResponsibility)\pattern_chain_of_responsibility\Debug\pattern_chain_of_responsibility.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\pattern_chain_of_responsibility.MyForm.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\c++_дз\projects\С++_дз\2 курс\2 semestr\задачі\№25(ChainOfResponsibility)\pattern_chain_of_responsibility\Debug\pattern_chain_of_responsibility.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\MyForm.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         pattern_chain_of_responsibility.vcxproj -> C:\c++_дз\projects\С++_дз\2 курс\2 semestr\задачі\№25(ChainOfResponsibility)\pattern_chain_of_responsibility\Debug\pattern_chain_of_responsibility.exe
+     1>Сборка проекта "C:\c++_дз\projects\С++_дз\2 курс\2 semestr\задачі\№25(ChainOfResponsibility)\pattern_chain_of_responsibility\pattern_chain_of_responsibility\pattern_chain_of_responsibility.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.87
